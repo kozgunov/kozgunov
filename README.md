@@ -8,31 +8,16 @@
 
 ---
 
-## 📂 Open-Source Projects
-
-| Project Title | Stars | Forks | Technologies |
-|---------------|-------|-------|--------------|
-| [Project 1](#) | ⭐ 205 | 🔄 18 | ![TF](https://img.shields.io/badge/TF-orange) |
-| [Project 2](#) | ⭐ 61  | 🔄 10 | ![PyTorch](https://img.shields.io/badge/PyTorch-red) ![OpenCV](https://img.shields.io/badge/OpenCV-blue) |
-| [Project 3](#) | ⭐ 10  | 🔄 5  | ![PyTorch](https://img.shields.io/badge/PyTorch-red) ![spaCy](https://img.shields.io/badge/spaCy-green) |
-| [Project 4](#) | ⭐ 66  | 🔄 20 | ![TF](https://img.shields.io/badge/TF-orange) ![OpenCV](https://img.shields.io/badge/OpenCV-blue) |
-
----
-
-### 📊 GitHub Stats
-
-![Contribution](https://github-contribution-stats.vercel.app/api/?username=your-github-username)
-
----
-
 ### 🔧 Top Languages
 
 - Python
 - Jupyter Notebook
 - С++
 
+---
 
-# My GitHub Profile
+## 📂 My Open-Source Projects
+
   
   ## Machine Learning Projects
 
