@@ -1,5 +1,5 @@
 
-# ikita Kozgunov
+# Nikita Kozgunov
 
 ### About Me
 
@@ -64,12 +64,12 @@
 # GitHub Stats
 
 ### Contributions in the Last Year
-![Contributions](C:/Users/user/Desktop/contributions_plot.png)
+![Contributions](contributions_plot.png)
 
 ### Top Languages by Repo
-![Languages by Repo](C:/Users/user/Desktop/languages_repo.png)
+![Languages by Repo](languages_repo.png)
 
 ### Top Languages by Commit
-![Languages by Commit](C:/Users/user/Desktop/languages_commit.png)
+![Languages by Commit](languages_commit.png)
 
 
