@@ -2,9 +2,9 @@
 
 ### About Me
 
-- 🎓 Pursuing Master in Data Science & Engineering @ The University of Saint-Petersburg State University
-- 📚 Research in AI and integration LLM into ... @ TICS Lab
-- 🔬 Designing&Constructing **Dynamical Decentralized Large Language Model** for Common usage
+- 🎓 Pursuing Master in Data Science & Engineering @ ![The University of Saint-Petersburg State University](https://spbu.ru/)
+- 📚 Research in AI and integration LLM into ... @ ![TICS Lab](https://dscs.pro/students/2024-spring/козгунов-никита-владимирович-2/)
+- 🔬 Designing&Constructing ![**Dynamical Decentralized Large Language Model**](https://ieeexplore.ieee.org/document/10554241/metrics#metrics) for Common usage
 
 ---
 
@@ -28,12 +28,8 @@
 ### 🔧 Top Languages
 
 - Python
-- JavaScript
-- HTML
 - Jupyter Notebook
-- PHP
-
-
+- С++
 
 
 # My GitHub Profile
