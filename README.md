@@ -2,15 +2,9 @@
 
 ### About Me
 
-[![Website](https://img.shields.io/badge/Website-gkos.dev-blue)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](#)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](#)
-
----
-
-- 🎓 Pursuing PhD in Data Science & Engineering @ The University of Tennessee
-- 📚 Research in AI and Computer Vision @ AICIP Lab
-- 🔬 Building **Masked Image Modeling** models for Remote Sensing data
+- 🎓 Pursuing Master in Data Science & Engineering @ The University of Saint-Petersburg State University
+- 📚 Research in AI and integration LLM into ... @ TICS Lab
+- 🔬 Designing&Constructing **Dynamical Decentralized Large Language Model** for Common usage
 
 ---
 
