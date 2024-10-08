@@ -1,5 +1,5 @@
 
-# Nikita Kozgunov
+# ikita Kozgunov
 
 ### About Me
 
