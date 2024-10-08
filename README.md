@@ -1,6 +1,52 @@
+# Nikita Kozgunov
+
+### About Me
+
+[![Website](https://img.shields.io/badge/Website-gkos.dev-blue)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](#)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](#)
+
+---
+
+#### Followers: 7.4k | Total Repos: 52 | Total Stars: 1.3k | Forks: 188 | Contributions: 900 | Issues: 90 | Closed Issues: 78
+
+---
+
+- 🎓 Pursuing PhD in Data Science & Engineering @ The University of Tennessee
+- 📚 Research in AI and Computer Vision @ AICIP Lab
+- 🔬 Building **Masked Image Modeling** models for Remote Sensing data
+
+---
+
+## 📂 Open-Source Projects
+
+| Project Title | Stars | Forks | Technologies |
+|---------------|-------|-------|--------------|
+| [Project 1](#) | ⭐ 205 | 🔄 18 | ![TF](https://img.shields.io/badge/TF-orange) |
+| [Project 2](#) | ⭐ 61  | 🔄 10 | ![PyTorch](https://img.shields.io/badge/PyTorch-red) ![OpenCV](https://img.shields.io/badge/OpenCV-blue) |
+| [Project 3](#) | ⭐ 10  | 🔄 5  | ![PyTorch](https://img.shields.io/badge/PyTorch-red) ![spaCy](https://img.shields.io/badge/spaCy-green) |
+| [Project 4](#) | ⭐ 66  | 🔄 20 | ![TF](https://img.shields.io/badge/TF-orange) ![OpenCV](https://img.shields.io/badge/OpenCV-blue) |
+
+---
+
+### 📊 GitHub Stats
+
+![Contribution](https://github-contribution-stats.vercel.app/api/?username=your-github-username)
+
+---
+
+### 🔧 Top Languages
+
+- Python
+- JavaScript
+- HTML
+- Jupyter Notebook
+- PHP
+
+
+
+
 # My GitHub Profile
-
-
   
   ## Machine Learning Projects
 
@@ -44,4 +90,14 @@
 
 
 
+# GitHub Stats
+
+### Contributions in the Last Year
+![Contributions](contributions_plot.png)
+
+### Top Languages by Repo
+![Languages by Repo](languages_repo.png)
+
+### Top Languages by Commit
+![Languages by Commit](languages_commit.png)
 
