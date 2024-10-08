@@ -8,10 +8,6 @@
 
 ---
 
-#### Followers: 7.4k | Total Repos: 52 | Total Stars: 1.3k | Forks: 188 | Contributions: 900 | Issues: 90 | Closed Issues: 78
-
----
-
 - 🎓 Pursuing PhD in Data Science & Engineering @ The University of Tennessee
 - 📚 Research in AI and Computer Vision @ AICIP Lab
 - 🔬 Building **Masked Image Modeling** models for Remote Sensing data
@@ -92,11 +88,11 @@
 # GitHub Stats
 
 ### Contributions in the Last Year
-![Contributions](contributions_plot.png)
+![Contributions](C:/Users/user/Desktop/contributions_plot.png)
 
 ### Top Languages by Repo
-![Languages by Repo](languages_repo.png)
+![Languages by Repo](C:/Users/user/Desktop/languages_repo.png)
 
 ### Top Languages by Commit
-![Languages by Commit](languages_commit.png)
+![Languages by Commit](C:/Users/user/Desktop/languages_commit.png)
 
