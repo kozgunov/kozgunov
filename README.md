@@ -60,15 +60,16 @@
 | [Exchange-Rate (in process...)](#) | ![Stars](https://img.shields.io/github/stars/username/email-sender?style=social) | ![PyPi](https://img.shields.io/badge/PyPi-orange?style=flat-square) ![API](https://img.shields.io/badge/API-red?style=flat-square) |
 
 
+# GitHub Stats
 
 ### Contributions in the Last Year
-<img src="{contributions_plot}" alt="Contributions" width="400">
+![Contributions](contributions_plot.png)
 
 ### Top Languages by Repo
-<img src="{languages_repo_plot}" alt="Languages by Repo" width="200">
+![Languages by Repo](languages_repo.png)
 
 ### Top Languages by Commit
-<img src="{languages_commit_plot}" alt="Languages by Commit" width="200">
+![Languages by Commit](languages_commit.png)
 
 Contact:
 * 📫 reserveknik@gmail.com
