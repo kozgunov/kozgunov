@@ -39,13 +39,13 @@
 
 | Title | Stars | Technologies |
 |-------|-------|--------------|
-| [Stock&Crypto Prediction (in process...)](#) | ![Stars](https://img.shields.io/github/stars/username/high-sql?style=social) | ![PyPi](https://img.shields.io/badge/PyPi-orange?style=flat-square) ![MySQL](https://img.shields.io/badge/MySQL-lightblue?style=flat-square) |
-| [Discord bot (in process...)](#) | ![Stars](https://img.shields.io/github/stars/username/cloud-file-manager?style=social) | ![PyPi](https://img.shields.io/badge/PyPi-orange?style=flat-square) ![API](https://img.shields.io/badge/API-red?style=flat-square) |
-| [LLaMa2.7-Telegram-bot (in process...)](#) | ![Stars](https://img.shields.io/github/stars/username/yaml-wrapper?style=social) | ![PyPi](https://img.shields.io/badge/PyPi-orange?style=flat-square) ![CI](https://img.shields.io/badge/CI-brightgreen?style=flat-square) |
-| [Own-news-hub](#) | ![Stars](https://img.shields.io/github/stars/username/color-logger?style=social) | ![PyPi](https://img.shields.io/badge/PyPi-orange?style=flat-square) |
-| [Forex-bot (in process...)](#) | ![Stars](https://img.shields.io/github/stars/username/email-sender?style=social) | ![PyPi](https://img.shields.io/badge/PyPi-orange?style=flat-square) ![API](https://img.shields.io/badge/API-red?style=flat-square) |
-| [Footballer-TicTacToe-bot (in process...)](#) | ![Stars](https://img.shields.io/github/stars/username/email-sender?style=social) | ![PyPi](https://img.shields.io/badge/PyPi-orange?style=flat-square) ![API](https://img.shields.io/badge/API-red?style=flat-square) |
-| [Auto-offside-detecting-bot (in process...)](#) | ![Stars](https://img.shields.io/github/stars/username/email-sender?style=social) | ![PyPi](https://img.shields.io/badge/PyPi-orange?style=flat-square) ![API](https://img.shields.io/badge/API-red?style=flat-square) |
+| [Stock&Crypto Prediction (in process...)](https://github.com/kozgunov/stock-crypto_bot) | ![Stars](https://img.shields.io/github/stars/username/high-sql?style=social) | ![PyPi](https://img.shields.io/badge/PyPi-orange?style=flat-square) ![MySQL](https://img.shields.io/badge/MySQL-lightblue?style=flat-square) |
+| [Discord bot (in process...)](https://github.com/kozgunov/my_ai/tree/main/app&program/Discord_bot) | ![Stars](https://img.shields.io/github/stars/username/cloud-file-manager?style=social) | ![PyPi](https://img.shields.io/badge/PyPi-orange?style=flat-square) ![API](https://img.shields.io/badge/API-red?style=flat-square) |
+| [LLaMa2.7-Telegram-bot (in process...)](https://github.com/kozgunov/LLaMa-bot) | ![Stars](https://img.shields.io/github/stars/username/yaml-wrapper?style=social) | ![PyPi](https://img.shields.io/badge/PyPi-orange?style=flat-square) ![CI](https://img.shields.io/badge/CI-brightgreen?style=flat-square) |
+| [Own-news-hub](https://github.com/kozgunov/my_ai/tree/main/app%26program/own_news_hub) | ![Stars](https://img.shields.io/github/stars/username/color-logger?style=social) | ![PyPi](https://img.shields.io/badge/PyPi-orange?style=flat-square) |
+| [Forex-bot (in process...)](https://github.com/kozgunov/my_ai/tree/main/app%26program/Forex_bot) | ![Stars](https://img.shields.io/github/stars/username/email-sender?style=social) | ![PyPi](https://img.shields.io/badge/PyPi-orange?style=flat-square) ![API](https://img.shields.io/badge/API-red?style=flat-square) |
+| [Footballer-TicTacToe-bot (in process...)](https://github.com/kozgunov/TicTacToe) | ![Stars](https://img.shields.io/github/stars/username/email-sender?style=social) | ![PyPi](https://img.shields.io/badge/PyPi-orange?style=flat-square) ![API](https://img.shields.io/badge/API-red?style=flat-square) |
+| [Auto-offside-detecting-bot (in process...)](https://github.com/kozgunov/my_ai/tree/main/CV/Football_Deep_Analisys) | ![Stars](https://img.shields.io/github/stars/username/email-sender?style=social) | ![PyPi](https://img.shields.io/badge/PyPi-orange?style=flat-square) ![API](https://img.shields.io/badge/API-red?style=flat-square) |
 
 
 ## Helpful Algorithms
