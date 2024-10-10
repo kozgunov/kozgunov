@@ -24,6 +24,8 @@
 
 | Title | Direction | Tools |
 |-------|-------|--------------|
+| Title | Direction | Tools | | Title | Direction | Tools | | Title | Direction | Tools |
+
 | [NN&Viola-Jones](https://github.com/kozgunov/Viola_Jones_alg_faces) | CV, AI | ![TF](https://img.shields.io/badge/TF-orange?style=flat-square) |
 | [Removing-Frontground (in process...)](https://github.com/kozgunov/my_ai/tree/main/CV%2BNLP/removing%20text%20from%20photo) | CV, NLP, OCR | ![PyTorch](https://img.shields.io/badge/PyTorch-red?style=flat-square) ![OpenCV](https://img.shields.io/badge/OpenCV-blue?style=flat-square) |
 | [DLLM&Blockchain (in training...)](https://github.com/kozgunov/diploma-research) | DLLM, Blockchain | ![PyTorch](https://img.shields.io/badge/PyTorch-red?style=flat-square) ![spaCy](https://img.shields.io/badge/spaCy-green?style=flat-square) |
