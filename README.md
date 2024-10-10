@@ -24,7 +24,7 @@
 
 | Title | Stars | Technologies |
 |-------|-------|--------------|
-| [NN&Viola-Jones](https://github.com/kozgunov/Viola_Jones_alg_faces) | ![Stars](https://img.shields.io/github/stars/username/craft-ai?style=social) | ![TF](https://img.shields.io/badge/TF-orange?style=flat-square) |
+| [NN&Viola-Jones](https://github.com/kozgunov/Viola_Jones_alg_faces) | ![TF](https://img.shields.io/badge/TF-orange?style=flat-square) |
 | [Removing-Frontground (in process...)](https://github.com/kozgunov/my_ai/tree/main/CV%2BNLP/removing%20text%20from%20photo) | ![Stars](https://img.shields.io/github/stars/username/semantic-segmentation?style=social) | ![PyTorch](https://img.shields.io/badge/PyTorch-red?style=flat-square) ![OpenCV](https://img.shields.io/badge/OpenCV-blue?style=flat-square) |
 | [DLLM&Blockchain (in training...)](https://github.com/kozgunov/diploma-research) | ![Stars](https://img.shields.io/github/stars/username/rinehart-novels?style=social) | ![PyTorch](https://img.shields.io/badge/PyTorch-red?style=flat-square) ![spaCy](https://img.shields.io/badge/spaCy-green?style=flat-square) |
 | [Real-Time-Object-Detection  (in process...)](https://github.com/kozgunov/modelling-research) | ![Stars](https://img.shields.io/github/stars/username/accidents-prediction?style=social) | ![Pandas](https://img.shields.io/badge/Pandas-blue?style=flat-square) ![SciPy](https://img.shields.io/badge/SciPy-darkblue?style=flat-square) |
