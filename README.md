@@ -20,7 +20,7 @@
 ## 📂 My Open-Source Projects
 
   
-  ### Machine Learning Projects
+  ### Machine Learning 
 
 | Title | Direction | Tools |
 |-------|-------|--------------|
