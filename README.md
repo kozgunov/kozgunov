@@ -24,7 +24,7 @@
 
 | Title | Direction | Tools |
 |-------|-------|--------------|
-| [NN&Viola-Jones](https://github.com/kozgunov/Viola_Jones_alg_faces) | CV, AI | ![TF](https://img.shields.io/badge/TF-orange?style=flat-square) |
+| [NN&Viola-Jones](https://github.com/kozgunov/Viola_Jones_alg_faces) | CV, AI | ![TF](https://camo.githubusercontent.com/3501d75ac8fabee34e1a2fdcfe4c7304bbc20a275feddb62ea430971e72773c1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54462d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d74656e736f72666c6f77) |
 | [Removing-Frontground (in process...)](https://github.com/kozgunov/my_ai/tree/main/CV%2BNLP/removing%20text%20from%20photo) | CV, NLP, OCR | ![PyTorch](https://img.shields.io/badge/PyTorch-red?style=flat-square) ![OpenCV](https://img.shields.io/badge/OpenCV-blue?style=flat-square) |
 | [DLLM&Blockchain (in training...)](https://github.com/kozgunov/diploma-research) | DLLM, Blockchain | ![PyTorch](https://img.shields.io/badge/PyTorch-red?style=flat-square) ![spaCy](https://img.shields.io/badge/spaCy-green?style=flat-square) |
 | [Real-Time-Object-Detection  (in process...)](https://github.com/kozgunov/modelling-research) | CV | ![Pandas](https://img.shields.io/badge/Pandas-blue?style=flat-square) ![SciPy](https://img.shields.io/badge/SciPy-darkblue?style=flat-square) |
