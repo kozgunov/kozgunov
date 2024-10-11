@@ -44,8 +44,8 @@
 | [LLaMa2.7-Telegram-bot (in process...)](https://github.com/kozgunov/LLaMa-bot) | API, NLP, TG | ![PyPi](https://img.shields.io/badge/PyPi-orange?style=flat-square) ![CI](https://img.shields.io/badge/CI-brightgreen?style=flat-square) |
 | [Own-news-hub](https://github.com/kozgunov/my_ai/tree/main/app%26program/own_news_hub) | RSS, Site | ![PyPi](https://img.shields.io/badge/PyPi-orange?style=flat-square) |
 | [Forex-bot (in process...)](https://github.com/kozgunov/my_ai/tree/main/app%26program/Forex_bot) | API, NLP, Math | ![PyPi](https://img.shields.io/badge/PyPi-orange?style=flat-square) ![API](https://img.shields.io/badge/API-red?style=flat-square) |
-| [Footballer-TicTacToe-bot (in process...)](https://github.com/kozgunov/TicTacToe) | AI-bot | ![PyPi](https://img.shields.io/badge/PyPi-orange?style=flat-square) ![API](https://img.shields.io/badge/API-red?style=flat-square) |
-| [Auto-offside-detecting-bot (in process...)](https://github.com/kozgunov/my_ai/tree/main/CV/Football_Deep_Analisys) | CV, NLP, AI | ![PyPi](https://img.shields.io/badge/PyPi-orange?style=flat-square) ![API](https://img.shields.io/badge/API-red?style=flat-square) |
+| [Footballer-TicTacToe-bot (in process...)](https://github.com/kozgunov/TicTacToe) | AI-bot | ![PyPi](https://img.shields.io/badge/PyPi-orange?style=flat-square) ![API](https://img.shields.io/badge/API-red?style=flat-square)  |
+| [Auto-offside-detecting-bot (in process...)](https://github.com/kozgunov/my_ai/tree/main/CV/Football_Deep_Analisys) | CV, NLP, AI | ![PyPi](https://img.shields.io/badge/PyPi-orange?style=flat-square) ![API](https://img.shields.io/badge/API-red?style=flat-square) ![OpenCV](https://camo.githubusercontent.com/40113db3f32c78c5ed0dc6b451a12d529b7ad4bf7605a0069a6324f53595ef74/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f70656e43562d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6f70656e6376) |
 
 
 ## Helpful Algorithms
@@ -55,7 +55,7 @@
 | [A* (in editing)](https://github.com/kozgunov/internal-tests/blob/main/A*) | ![PyPi](https://img.shields.io/badge/PyPi-orange?style=flat-square) ![API](https://img.shields.io/badge/API-red?style=flat-square) |
 | [Deapth-First-Search](https://github.com/kozgunov/internal-tests/blob/main/dfs.py) | ![PyPi](https://img.shields.io/badge/PyPi-orange?style=flat-square) ![API](https://img.shields.io/badge/API-red?style=flat-square) |
 | [Breath-First-Search](https://github.com/kozgunov/internal-tests/blob/main/bfs.py) | ![PyPi](https://img.shields.io/badge/PyPi-orange?style=flat-square) ![API](https://img.shields.io/badge/API-red?style=flat-square) |
-| [Q-learning (in process...)](https://github.com/kozgunov/my_ai/blob/main/app%26program/Q-learning) | ![PyPi](https://img.shields.io/badge/PyPi-orange?style=flat-square) ![API](https://img.shields.io/badge/API-red?style=flat-square) |
+| [Q-learning (in process...)](https://github.com/kozgunov/my_ai/blob/main/app%26program/Q-learning) | ![PyPi](https://img.shields.io/badge/PyPi-orange?style=flat-square) ![API](https://img.shields.io/badge/API-red?style=flat-square) ![PyTorch](https://camo.githubusercontent.com/9218b9b931f79b625865832c6f02edcb5f1684d9e609617ae9d4d474c4fd5c54/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5079546f7263682d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d7079746f726368) |
 | [KAN](https://github.com/kozgunov/internal-tests/blob/main/KANs) | ![PyPi](https://img.shields.io/badge/PyPi-orange?style=flat-square) ![API](https://img.shields.io/badge/API-red?style=flat-square) |
 | [Exchange-Rate (in process...)](https://github.com/kozgunov/python-games/blob/main/exchanging%20rates) | ![PyPi](https://img.shields.io/badge/PyPi-orange?style=flat-square) ![API](https://img.shields.io/badge/API-red?style=flat-square) |
 
