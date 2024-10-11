@@ -65,9 +65,9 @@
 
 ![Contributions](contributions_plot.png)
 
-![Languages by Repo](result_languages_repoй.png.png)
+![Languages by Repo](languages_repo.png)
 
-![Languages by Commit](result_languages_commit1.png.png)
+![Languages by Commit](languages_commit.png)
 
 Contact:
 * 📫 reserveknik@gmail.com
