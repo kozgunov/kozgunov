@@ -64,25 +64,43 @@
 <details>
   <summary>GitHub Stats 📊</summary>
 
-<div style="display: flex; justify-content: center;">
 
-Contributions in the Last Year
-<img src="contributions_plot.png" alt="Contributions" width="400">
+  <div style="display: flex; justify-content: space-around; align-items: center;">
 
-</div>
+    <!-- Left column with additional info -->
+    <div style="flex: 1; padding-right: 20px;">
+      <h2>Nikita Kozgunov</h2>
+      <p>🎓 Master in Data Science & Engineering @ [The University of Saint-Petersburg State University](https://spbu.ru/)</p>
+      <p>📚 Research in AI and integration of LLM into ... @ [TICS Lab](https://dscs.pro/students/2024-spring/козгунов-никита-владимирович-2/)</p>
+      <p>🔬 Designing & Constructing [**Dynamical Decentralized Large Language Model**](https://ieeexplore.ieee.org/document/10554241/metrics#metrics) for Common usage</p>
+      <p>🌍 Based in: Saint Petersburg, Russia</p>
+      <p>📈 GitHub Stats: <br>
+         - **Contributions**: 751 in 2024 <br>
+         - **Public Repos**: 43 <br>
+         - **Joined GitHub**: 8 years ago
+      </p>
+      <p>📧 Email: nikita.kozgunov@spbu.ru</p>
+    </div>
 
-<div style="display: flex; justify-content: space-around; margin-top: 10px;">
-  <div style="flex: 1; text-align: center;">
-    <h4>Top Languages by Repo</h4>
-    <img src="languages_repo.png" alt="Languages by Repo" width="200">
+    <!-- Right column with graph -->
+    <div style="flex: 1;">
+      <h4>Contributions in the Last Year</h4>
+      <img src="contributions_plot.png" alt="Contributions" width="500">
+    </div>
+    
   </div>
 
-  <div style="flex: 1; text-align: center;">
-    <h4>Top Languages by Commit</h4>
-    <img src="languages_commit.png" alt="Languages by Commit" width="200">
+  <div style="display: flex; justify-content: space-around; margin-top: 20px;">
+    <div style="flex: 1; text-align: center;">
+      <h4>Top Languages by Repo</h4>
+      <img src="languages_repo.png" alt="Languages by Repo" width="400">
+    </div>
+
+    <div style="flex: 1; text-align: center;">
+      <h4>Top Languages by Commit</h4>
+      <img src="languages_commit.png" alt="Languages by Commit" width="400">
+    </div>
   </div>
-</div>
-</div>
 </details>
 
 Contact:
