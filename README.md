@@ -67,7 +67,7 @@
 <div style="display: flex; justify-content: center;">
 
 ### Contributions in the Last Year
-<img src="contributions_plot.png" alt="Contributions" width="200">
+<img src="contributions_plot.png" alt="Contributions" width="300">
 
 </div>
 
@@ -75,12 +75,12 @@
 
 <div style="flex: 1; text-align: center;">
   <h4>Top Languages by Repo</h4>
-  <img src="languages_repo.png" alt="Languages by Repo" width="100">
+  <img src="languages_repo.png" alt="Languages by Repo" width="200">
 </div>
 
 <div style="flex: 1; text-align: center;">
   <h4>Top Languages by Commit</h4>
-  <img src="languages_commit.png" alt="Languages by Commit" width="100">
+  <img src="languages_commit.png" alt="Languages by Commit" width="200">
 </div>
 
 </div>
