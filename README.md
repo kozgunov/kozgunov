@@ -65,7 +65,7 @@
   <summary>GitHub Stats 📊</summary>
 
 
-  <div style="display: flex; justify-content: space-around; align-items: center;">
+<div style="display: flex; justify-content: space-around; align-items: center;">
 
   <!-- Left column with additional info -->
   <div style="flex: 1; padding-right: 20px;">
@@ -100,7 +100,7 @@
     <h4>Top Languages by Commit</h4>
     <img src="languages_commit.png" alt="Languages by Commit" width="400">
   </div>
-  </div>
+</div>
 </details>
 
 Contact:
