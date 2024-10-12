@@ -73,16 +73,17 @@
 
 <div style="display: flex; justify-content: space-around; margin-top: 20px;">
 
-<div style="flex: 1; text-align: center;">
-  <h4>Top Languages by Repo</h4>
-  <img src="languages_repo.png" alt="Languages by Repo" width="200">
-</div>
+<div style="display: flex; justify-content: space-around; margin-top: 20px;">
+  <div style="flex: 1; text-align: center;">
+    <h4>Top Languages by Repo</h4>
+    <img src="languages_repo.png" alt="Languages by Repo" width="400">
+  </div>
 
-<div style="flex: 1; text-align: center;">
-  <h4>Top Languages by Commit</h4>
-  <img src="languages_commit.png" alt="Languages by Commit" width="200">
+  <div style="flex: 1; text-align: center;">
+    <h4>Top Languages by Commit</h4>
+    <img src="languages_commit.png" alt="Languages by Commit" width="400">
+  </div>
 </div>
-
 </div>
 </details>
 
