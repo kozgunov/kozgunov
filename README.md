@@ -60,15 +60,14 @@
 | [Exchange-Rate (in process...)](https://github.com/kozgunov/python-games/blob/main/exchanging%20rates) | ![API](https://img.shields.io/badge/API-red?style=flat-square) ![PSQL](https://camo.githubusercontent.com/0bf18404228cf47ae9400c9e2efdf98a7a92441e1f58a1b2efdd0bba351c5831/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6d7973716c)|
 
 
-# GitHub Stats
 
 <details>
-  <summary>Click to View Graphs 📊</summary>
+  <summary>GitHub Stats 📊</summary>
 
 <div style="display: flex; justify-content: center;">
 
 ### Contributions in the Last Year
-<img src="contributions_plot.png" alt="Contributions" width="500">
+<img src="contributions_plot.png" alt="Contributions" width="200">
 
 </div>
 
@@ -76,12 +75,12 @@
 
 <div style="flex: 1; text-align: center;">
   <h4>Top Languages by Repo</h4>
-  <img src="languages_repo.png" alt="Languages by Repo" width="400">
+  <img src="languages_repo.png" alt="Languages by Repo" width="100">
 </div>
 
 <div style="flex: 1; text-align: center;">
   <h4>Top Languages by Commit</h4>
-  <img src="languages_commit.png" alt="Languages by Commit" width="400">
+  <img src="languages_commit.png" alt="Languages by Commit" width="100">
 </div>
 
 </div>
