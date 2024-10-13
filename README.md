@@ -67,21 +67,6 @@
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
 
-  <!-- Left column with additional info -->
-  <div style="flex: 1; padding-right: 20px;">
-    <h2>Nikita Kozgunov</h2>
-    <p>🎓 Master in Data Science & Engineering @ [The University of Saint-Petersburg State University](https://spbu.ru/)</p>
-    <p>📚 Research in AI and integration of LLM into ... @ [TICS Lab](https://dscs.pro/students/2024-spring/козгунов-никита-владимирович-2/)</p>
-    <p>🔬 Designing & Constructing [**Dynamical Decentralized Large Language Model**](https://ieeexplore.ieee.org/document/10554241/metrics#metrics) for Common usage</p>
-    <p>🌍 Based in: Saint Petersburg, Russia</p>
-    <p>📈 GitHub Stats: <br>
-       - **Contributions**: 751 in 2024 <br>
-       - **Public Repos**: 43 <br>
-       - **Joined GitHub**: 8 years ago
-    </p>
-    <p>📧 Email: nikita.kozgunov@spbu.ru</p>
-  </div>
-
   <!-- Right column with graph -->
   <div style="flex: 1;">
     <h4>Contributions in the Last Year</h4>
