@@ -20,7 +20,7 @@
 ## 📂 My Open-Source Projects
 
 <details>
-<summary>  Machine Learning  </summary>
+<summary>  **Machine Learning**  </summary>
 
 | Title | Direction | Tools |
 |-------|-------|--------------|
