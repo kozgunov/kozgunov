@@ -64,6 +64,7 @@
 | [Breath-First-Search](https://github.com/kozgunov/internal-tests/blob/main/bfs.py) | ![PyPi](https://img.shields.io/badge/PyPi-orange?style=flat-square) |
 | [KAN](https://github.com/kozgunov/internal-tests/blob/main/KANs) | ![API](https://img.shields.io/badge/API-red?style=flat-square) ![NumPy](https://camo.githubusercontent.com/95ec0c2d43de37b1de9b062511f90a8b5397a855d018568974ea8a358088ecb9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e756d50792d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6e756d7079)|
 | [Exchange-Rate (in process...)](https://github.com/kozgunov/python-games/blob/main/exchanging%20rates) | ![API](https://img.shields.io/badge/API-red?style=flat-square) ![PSQL](https://camo.githubusercontent.com/0bf18404228cf47ae9400c9e2efdf98a7a92441e1f58a1b2efdd0bba351c5831/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6d7973716c)|
+| [Mail-Sender](https://github.com/kozgunov/python-games/blob/main/exchanging%20rates) | ![API](https://img.shields.io/badge/API-red?style=flat-square) ![PSQL](https://camo.githubusercontent.com/0bf18404228cf47ae9400c9e2efdf98a7a92441e1f58a1b2efdd0bba351c5831/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6d7973716c)|
 </details>
 
 
