@@ -11,7 +11,6 @@
 ### 🔧 Top Languages
 
 - Python
-- Jupyter Notebook
 - С++
 
 ---
