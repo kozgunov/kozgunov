@@ -3,7 +3,7 @@
 ### About Me
 
 - 🎓 Pursuing Master in Data Science & Engineering @ [The University of Saint-Petersburg State University](https://spbu.ru/)
-- 📚 Research in AI and integration LLM into ... @ [TICS Lab](https://dscs.pro/students/2024-spring/козгунов-никита-владимирович-2/)
+- 📚 Research in AI and integration LLM into @ [TICS Lab](https://dscs.pro/students/2024-spring/козгунов-никита-владимирович-2/)
 - 🔬 Designing&Constructing [**Dynamical Decentralized Large Language Model**](https://ieeexplore.ieee.org/document/10554241/metrics#metrics) for Common usage
 
 ---
